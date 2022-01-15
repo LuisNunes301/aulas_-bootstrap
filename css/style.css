@@ -1,19 +1,29 @@
 .body{
     font: 20px Arial,sans=seri;
+    background: beige;
 }
 
 .navbar{
-    background-color:greenyellow;
+    background-color:rgba(35, 223, 236, 0.527);
 }
-.quemsomos{
-    background-color:rgb(115, 221, 240);
-    color: white;
-}
+
 .margin{
     padding-bottom: 25px;
     padding-top: 10px;
 }
+.quemsomos{
+    background-color:rgb(117, 201, 180);
+    color: rgb(41, 11, 11);
+}
 .parceiros{
-    background-color:rgb(26, 169, 194);
-    color: white;
+    padding-bottom: 500px;
+    background-color:rgb(117, 201, 180);
+    color: rgb(41, 11, 11);
+}
+.servicos{
+
+}
+.bg-footer{
+    background-color: black;
+    color: rgb(41, 11, 11);
 }
